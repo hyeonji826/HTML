@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "YESMyoungjo-Regular";
+    src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_13@1.0/YESMyoungjo-Regular.woff")
+      format("woff");
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+/* * : 전체 선택자 */
+* {
+    margin: 0;
+    padding: 0;
+    /* box-sizing 의 기본값은 content-box이다. */
+    box-sizing: border-box;
+    /* font-family: YESMyoungjo-Regular; */
+}
